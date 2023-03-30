@@ -1,0 +1,20 @@
+apiVersion: v1
+
+kind: Pod
+
+metadata:
+
+  name: todoapp1
+
+spec:
+
+  containers:
+
+  - name: todoapp1
+
+    image: trohan37/todoapp1:v1
+
+    ports:
+
+    - containerPort: 8000
+
