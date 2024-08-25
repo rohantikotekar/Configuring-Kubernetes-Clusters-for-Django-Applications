@@ -1,4 +1,4 @@
-# Configuring Kubernetes Clusters for Python Applications
+# Configuring Kubernetes Clusters for Django Applications
 
 
 ## Introduction
