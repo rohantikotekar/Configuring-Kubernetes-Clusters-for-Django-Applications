@@ -86,8 +86,6 @@ Push the image to a container registry.
 Update the Kubernetes deployment.
 A sample GitHub Actions workflow could look like:
 
-yaml
-Copy code
 name: CI/CD Pipeline
 
 on:
