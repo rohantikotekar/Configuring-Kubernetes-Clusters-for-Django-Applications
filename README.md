@@ -23,7 +23,6 @@ Before starting, ensure you have the following:
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/python-k8s-deploy.git
 cd python-k8s-deploy
 
