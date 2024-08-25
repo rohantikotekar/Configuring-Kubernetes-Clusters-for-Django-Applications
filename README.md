@@ -1,6 +1,5 @@
 # Configuring Kubernetes Clusters for Python Applications
 
-This project demonstrates the deployment of a Python application on a Kubernetes cluster, showcasing the setup of essential Kubernetes services, and properties such as auto-healing, ReplicaSets, and deployments.
 
 ## Introduction
 
