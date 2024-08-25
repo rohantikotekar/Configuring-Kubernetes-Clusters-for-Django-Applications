@@ -22,10 +22,7 @@ Before starting, ensure you have the following:
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/python-k8s-deploy.git
-cd python-k8s-deploy
-
-cd app
+Clone any django repository and cd into that folder
 docker build -t your-dockerhub-username/python-app:latest .
 
 Push the Docker Image to a Registry
