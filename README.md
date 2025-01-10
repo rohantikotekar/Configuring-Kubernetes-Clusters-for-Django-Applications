@@ -22,7 +22,7 @@ Before starting, ensure you have the following:
 
 ### Clone the Repository
 
-Clone any django repository and cd into that folder
+Clone any django repository and cd into that folder: 
 docker build -t your-dockerhub-username/python-app:latest .
 
 Push the Docker Image to a Registry
